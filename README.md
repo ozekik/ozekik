@@ -1,16 +1,16 @@
-### Hi there 👋
+#### Ontology, Semantic Web
 
-<!--
-**ozekik/ozekik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [ozekik/awesome-ontology](https://github.com/ozekik/awesome-ontology)
+- [ozekik/lightrdf](https://github.com/ozekik/lightrdf)
+- [ozekik/markdown-ld](https://github.com/ozekik/markdown-ld)
 
-Here are some ideas to get you started:
+#### Open Data, Digital Twins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [owntwin/owntwin](https://github.com/owntwin/owntwin)
+- [japan-opendata/awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata)
+- [ozekik/plateaukit](https://github.com/ozekik/plateaukit)
+
+#### Logic, Philsophy
+
+- [ozekik/mathesis](https://github.com/ozekik/mathesis)
+- [ozekik/meinong](https://github.com/ozekik/meinong)
