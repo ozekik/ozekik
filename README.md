@@ -7,8 +7,9 @@
 #### Open Data, Digital Twins
 
 - [owntwin/owntwin](https://github.com/owntwin/owntwin)
-- [japan-opendata/awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata)
 - [ozekik/plateaukit](https://github.com/ozekik/plateaukit)
+- [japan-opendata/awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata)
+- [japan-opendata/awesome-plateau](https://github.com/japan-opendata/awesome-plateau)
 
 #### Logic, Philsophy
 
