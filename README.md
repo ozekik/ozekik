@@ -11,7 +11,7 @@
 - [ozekik/python-flatgeobuf](https://github.com/ozekik/python-flatgeobuf)
 - [ozekik/ipydeck](https://github.com/ozekik/ipydeck)
 - [ozekik/japancode](https://github.com/ozekik/cityview)
-- [ozekik/japancode](https://github.com/ozekik/japancode)
+- [ozekik/cityview](https://github.com/ozekik/japancode)
 - [japan-opendata/awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata)
 - [japan-opendata/awesome-plateau](https://github.com/japan-opendata/awesome-plateau)
 
